@@ -22,7 +22,7 @@ function Map-Directory{
     $gethash = Get-FileHash $_.FullName
     $hash = $gethash.Hash
     $fullName = $_.FullName.Substring($base_path.Path.Length)
-    Write-Output "$hash, '$fullName'" >> wcmap.txt
+    Write-Output "$hash, $fullName" >> wcmap.txt
     Write-Output $_.FullName
 }
 
