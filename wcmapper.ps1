@@ -1,7 +1,7 @@
 ﻿
 ### creates the map
 
-$folders_to_map = "Liveries", "KneeBoard", "Mods\Aircraft" # <= add relative path of folders to map (ex: "Mods\tech") !WATCH CASING!
+$folders_to_map = "Liveries", "Kneeboard", "Mods\Aircraft" # <= add relative path of folders to map (ex: "Mods\tech") !WATCH CASING!
 
 $base_path = pwd
 
