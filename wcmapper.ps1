@@ -1,7 +1,7 @@
 ﻿
 ### creates the map
 
-$folders_to_map = "Liveries", "KneeBoard", "Mods\Aircraft" # <= add relative path of folders to map (ex: "Mods\tech")
+$folders_to_map = "Liveries", "KneeBoard", "Mods\Aircraft" # <= add relative path of folders to map (ex: "Mods\tech") !WATCH CASING!
 
 $base_path = pwd
 
@@ -24,10 +24,9 @@ function Map-Directory{
     $fullName = $_.FullName.Substring($base_path.Path.Length)
     Write-Output "$hash, $fullName" >> wcmap.txt
     Write-Output $_.FullName
-}
+    }
 
 }
-
 
 $folders_to_map | ForEach-Object {
     $folder = $base_path.Path +'\'+ $_
