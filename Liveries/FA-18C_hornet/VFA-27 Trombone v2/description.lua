@@ -234,7 +234,7 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};
 
-	{"FPU_8A", 0 ,"FPU_8A_Diff",true};
+	{"FPU_8A", 0 ,"FPU_8A_royal_maces_airborne_black_gold",true};
 	{"FPU_8A", 2 ,"FPU_8A_Diff_RoughMet",true};
 
 
