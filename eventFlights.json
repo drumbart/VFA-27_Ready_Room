@@ -1,0 +1,71 @@
+[
+    {
+        "name": "VFA-27",
+        "flights": [
+            {
+                "flight_name": "Charger1"
+            },
+            {
+                "flight_name": "Charger2"
+            },
+            {
+                "flight_name": "Charger3"
+            },
+            {
+                "flight_name": "Charger4"
+            },
+            {
+                "flight_name": "Charger5"
+            },
+            {
+                "flight_name": "Charger6"
+            }
+        ]
+    },
+    {
+        "name": "14TH FS",
+        "flights": [
+            {
+                "flight_name": "Wood1"
+            },
+            {
+                "flight_name": "Wood2"
+            },
+            {
+                "flight_name": "Wood3"
+            },
+            {
+                "flight_name": "Wood4"
+            },
+            {
+                "flight_name": "Wood5"
+            },
+            {
+                "flight_name": "Wood6"
+            }
+        ]
+    },
+    {
+        "name": "163rd FS BS",
+        "flights": [
+            {
+                "flight_name": "Hog1"
+            },
+            {
+                "flight_name": "Hog2"
+            },
+            {
+                "flight_name": "Hog3"
+            },
+            {
+                "flight_name": "Hog4"
+            },
+            {
+                "flight_name": "Hog5"
+            },
+            {
+                "flight_name": "Hog6"
+            }
+        ]
+    }
+]
