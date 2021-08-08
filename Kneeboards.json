@@ -1,6 +1,6 @@
 [
     {
-        "name": "Default",
+        "name": "Standard",
         "parent": "/Kneeboard/",
         "hide": true,
         "subcat": [
@@ -31,15 +31,7 @@
                 "files": [
                     "00_FA-18C_hornet_KS_Day_03.png",
                     "JCP_Airfields_1.png",
-                    "JCP_INTERFLIGHT.png"
-                ]
-            },
-            {
-                "name": "Case 1",
-                "date": 1624029598,
-                "description": "These kneeboards which may help you with your CASE 1 landings",
-                "default": false,
-                "files": [
+                    "JCP_INTERFLIGHT.png",
                     "JCP_VFA-27_1.png"
                 ]
             }
@@ -78,18 +70,6 @@
         "name": "163RD FS BS",
         "parent": "/Kneeboard/F-16C_50/",
         "hide": true,
-        "subcat": [
-            {
-                "name": "Basic",
-                "default": false,
-                "date": 1624029598,
-                "description": "These are the basic kneeboards for 163RD FS Blacksnakes. PLACEHOLDER KNEEBOARDS. RECOMMENDED",
-                "files": [
-                    "JCP_Airfields_1.png",
-                    "JCP_FS14_1.png",
-                    "JCP_INTERFLIGHT.png"
-                ]
-            }
-        ]
+        "subcat": []
     }
 ]
