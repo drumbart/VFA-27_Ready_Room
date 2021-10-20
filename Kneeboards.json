@@ -52,15 +52,6 @@
                 ]
             },
             {
-                "name": "HARM Codes",
-                "default": false,
-                "date": 1624029598,
-                "description": "Contains a card with Harm codes & RWR Threat symbology",
-                "files": [
-                    "Wildcats HARM Codes Card.png"
-                ]
-            },
-            {
                 "name": "Anti Air Threat Table",
                 "default": false,
                 "date": 1624029598,
@@ -85,6 +76,15 @@
                     "00_FA-18C_hornet_KS_Day_03.png",
                     "JCP_Airfields_1.png",
 					"Wildcats JCP - 27th.png"
+                ]
+            },
+            {
+                "name": "HARM Codes",
+                "default": false,
+                "date": 1624029598,
+                "description": "Contains a card with Harm codes & RWR Threat symbology",
+                "files": [
+                    "Wildcats HARM Codes Card.png"
                 ]
             }
         ]
