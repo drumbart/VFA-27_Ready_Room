@@ -10,10 +10,63 @@
                 "date": 1624029598,
                 "description": "These are the basic kneeboards. Recommended for all Wildcat players",
                 "files": [
-                    "WC TAC-C2.png",
-                    "Wildcats Brevity Codes.png",
-                    "Wildcats SAM Threat.jpg",
-                    "Wildcats SSR CODES.png"
+                    "Wildcats SSR Codes Card.png"
+                ]
+            },
+            {
+                "name": "Standard communication procedures",
+                "default": true,
+                "date": 1624029598,
+                "description": "Contains cards with tactical check-ins, In-flight reports and brevity codes",
+                "files": [
+                    "Wildcats Brevity Codes Card.png",
+                    "Wildcats Tac Card.png"
+                ]
+            },
+            {
+                "name": "Close Air support",
+                "default": false,
+                "date": 1624029598,
+                "description": "Contains a CAS vocabulary card and a CAS check-in Brief & 9-line card",
+                "files": [
+                    "Wildcats CAS Check-in Brief & 9-line.png",
+                    "Wildcats CAS Vocabulary Card.png"
+                ]
+            },
+            {
+                "name": "Aerial Refueling",
+                "default": false,
+                "date": 1624029598,
+                "description": "Contains a card to help with positioning and comms during ARR",
+                "files": [
+                    "Wildcats AAR Card.png"
+                ]
+            },
+            {
+                "name": "Formation Card",
+                "default": false,
+                "date": 1624029598,
+                "description": "Contains a card to help with positioning in formations",
+                "files": [
+                    "Wildcats Formation Card.png"
+                ]
+            },
+            {
+                "name": "HARM Codes",
+                "default": false,
+                "date": 1624029598,
+                "description": "Contains a card with Harm codes & RWR Threat symbology",
+                "files": [
+                    "Wildcats HARM Codes Card.png"
+                ]
+            },
+            {
+                "name": "Anti Air Threat Table",
+                "default": false,
+                "date": 1624029598,
+                "description": "Contains a card with an anti air threat table",
+                "files": [
+                    "Wildcats Anti Threat Table.png"
                 ]
             }
         ]
@@ -31,8 +84,7 @@
                 "files": [
                     "00_FA-18C_hornet_KS_Day_03.png",
                     "JCP_Airfields_1.png",
-					"NEW Wildcats Joint Communications Plan - JCP.png",
-					"Wildcats SSR CODES.png"
+					"Wildcats JCP - 27th.png"
                 ]
             }
         ]
@@ -49,8 +101,7 @@
                 "description": "These are the basic kneeboards for 14th Fighting Samurai's. RECOMMENDED",
                 "files": [
                     "JCP_Airfields_1.png",
-                    "JCP_FS14_1.png",
-                    "JCP_INTERFLIGHT.png"
+                    "Wildcats JCP - 14th FS.png"
                 ]
             },
             {
@@ -68,8 +119,20 @@
     },
     {
         "name": "163RD FS BS",
-        "parent": "/Kneeboard/F-16C_50/",
+        "parent": "/Kneeboard/",
         "hide": true,
-        "subcat": []
+        "subcat": [
+            {
+                "name": "Basic",
+                "default": false,
+                "date": 1624029598,
+                "description": "These are the basic kneeboards for 163rd FS Blacksnakes. RECOMMENDED",
+                "files": [
+                    "JCP_Airfields_1.png",
+                    "Wildcats JCP - 163rd Page 1.png",
+                    "Wildcats JCP - 163rd Page 2.png"
+                ]
+            }
+        ]
     }
 ]
