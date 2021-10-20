@@ -7,7 +7,7 @@
             {
                 "name": "Basic",
                 "default": true,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "These are the basic kneeboards. Recommended for all Wildcat players",
                 "files": [
                     "Wildcats SSR Codes Card.png"
@@ -16,7 +16,7 @@
             {
                 "name": "Standard communication procedures",
                 "default": true,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "Contains cards with tactical check-ins, In-flight reports and brevity codes",
                 "files": [
                     "Wildcats Brevity Codes Card.png",
@@ -26,7 +26,7 @@
             {
                 "name": "Close Air support",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "Contains a CAS vocabulary card and a CAS check-in Brief & 9-line card",
                 "files": [
                     "Wildcats CAS Check-in Brief & 9-line.png",
@@ -36,7 +36,7 @@
             {
                 "name": "Aerial Refueling",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "Contains a card to help with positioning and comms during ARR",
                 "files": [
                     "Wildcats AAR Card.png"
@@ -45,7 +45,7 @@
             {
                 "name": "Formation Card",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "Contains a card to help with positioning in formations",
                 "files": [
                     "Wildcats Formation Card.png"
@@ -54,7 +54,7 @@
             {
                 "name": "Anti Air Threat Table",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "Contains a card with an anti air threat table",
                 "files": [
                     "Wildcats Anti Threat Table.png"
@@ -70,7 +70,7 @@
             {
                 "name": "Basic",
                 "default": false,
-                "date": 1634029598,
+                "date": 1634734245,
                 "description": "These are the basic kneeboards for VFA-27 Royal Maces. RECOMMENDED",
                 "files": [
                     "00_FA-18C_hornet_KS_Day_03.png",
@@ -81,7 +81,7 @@
             {
                 "name": "HARM Codes",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "Contains a card with Harm codes & RWR Threat symbology",
                 "files": [
                     "Wildcats HARM Codes Card.png"
@@ -97,7 +97,7 @@
             {
                 "name": "Basic",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "These are the basic kneeboards for 14th Fighting Samurai's. RECOMMENDED",
                 "files": [
                     "JCP_Airfields_1.png",
@@ -108,7 +108,7 @@
                 "name": "HARM Tables",
                 "description": "These kneeboards container Harm tables for f-16 AGM88C Harms",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "files": [
                     "DCS-F-16C-AGM88C-HARM-ALIC-Tables-v210-01.png",
                     "DCS-F-16C-AGM88C-HARM-ALIC-Tables-v210-02.png",
@@ -125,7 +125,7 @@
             {
                 "name": "Basic",
                 "default": false,
-                "date": 1624029598,
+                "date": 1634734245,
                 "description": "These are the basic kneeboards for 163rd FS Blacksnakes. RECOMMENDED",
                 "files": [
                     "JCP_Airfields_1.png",
