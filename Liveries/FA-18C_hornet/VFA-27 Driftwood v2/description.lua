@@ -243,8 +243,8 @@ livery = {
 
 	
 }
-name = "VFA-27 CO Driftwood v2"
-name_ru = "VFA-27 CO Driftwood v2"
+name = "VFA-27 CAG Driftwood v2"
+name_ru = "VFA-27 CAG Driftwood v2"
 countries = {"RUS","UKR","USA","TUR","UK","FRA","GER","AUSAF","CAN","SPN","NETH","BEL","NOR","DEN","ISR","GRG","INS","ABH",
 "RSO","ITA","AUS","SUI","AUT","BLR","BGR","CZE","CHN","HRV","EGY","FIN","GRC","HUN","IND","IRN","IRQ","JPN","KAZ","PRK",
 "PAK","POL","ROU","SAU","SRB","SVK","KOR","SWE","SYR","YEM","VNM","VEN","TUN","THA","SDN","PHL","MAR","MEX","MYS",
